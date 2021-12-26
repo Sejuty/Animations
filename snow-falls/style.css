@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#snow-fall{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background: #262626;
+    background-image :url(winter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
